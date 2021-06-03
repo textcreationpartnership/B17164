@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Answer to the poor whore's complaint in a letter from a bully spark of the town to Mistres Nell ...</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17164</idno><idno type="EEBO-CITATION">10826423</idno>
+  <idno type="VID">204789</idno>
+  <idno type="EEBO-PROQUEST">2264181256</idno>
+  
+            <idno type="STC">Wing A3431</idno>
+            <idno type="OCLC">10826423</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204789)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1414:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Answer to the poor whore's complaint in a letter from a bully spark of the town to Mistres Nell ...</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bissel,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685?</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Magdalene College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="song">
+            <pb facs="tcp:204789:1"/>
+            <pb facs="tcp:204789:1"/>
+            <head>An ANSWER TO THE Poor Whore's Complaint, In a Letter, from a Bully Spark of the Town, to Mistress <hi>Nell,</hi> the common Crack of <hi>Fleet-street;</hi> containing his Sorrow for her sad Complaint.</head>
+            <opener>To the Tune of, <hi>The Guinea wins her,</hi> &amp;c.</opener>
+            <lg>
+               <l>AS I was ranging <hi>Nelly,</hi>
+               </l>
+               <l>Through famous <hi>London</hi> City,</l>
+               <l>The Heart within my Belly,</l>
+               <l>Did grieve and ake with Pity,</l>
+               <l>For there I heard the Women sing,</l>
+               <l>Till they made the very Streets to ring,</l>
+               <l>That you were poor and bare,</l>
+               <l>And had no Smock to wear:</l>
+               <l>What Mistress <hi>Nell,</hi> thought I!</l>
+               <l>Sure this must be a lye,</l>
+               <l>But strait they did reply,</l>
+               <l>It was true, she having nothing scarce to do.</l>
+            </lg>
+            <lg>
+               <l>You had a good beginning,</l>
+               <l>And liv'd in seeming Glory,</l>
+               <l>But now your lace and linning</l>
+               <l>Is gone to Purgatory;</l>
+               <l>My meaning is the Broaker's claws;</l>
+               <l>Now I have consider'd what's the cause</l>
+               <l>That you so Poor are made,</l>
+               <l>'Tis ean for want of Trade;</l>
+               <l>The Bullies Hearts may ake,</l>
+               <l>And their Foundations shake,</l>
+               <l>When Cracks in <hi>Fleet-street</hi> brake;</l>
+               <l>For I know, it soon will prove their overthrow.</l>
+            </lg>
+            <lg>
+               <l>Ah! <hi>Nell,</hi> there is too many,</l>
+               <l>With Impudence attended,</l>
+               <l>When there should not be any,</l>
+               <l>But what from Cracks descended;</l>
+               <l>Yet here they come up e'ry week,</l>
+               <l>From the very <hi>Devil's Arse-a-peak,</hi>
+               </l>
+               <l>Both <hi>East, West, North</hi> and <hi>South,</hi>
+               </l>
+               <l>And out of <hi>Nelly</hi>'s Mouth</l>
+               <l>They Eat the bread of fame,</l>
+               <l>And tho' from <hi>York</hi> they came,</l>
+               <l>It is a burning shame</l>
+               <l>This should be, when of the Trade they are not Free.</l>
+            </lg>
+            <lg>
+               <l>But <hi>Nelly,</hi> with Submission,</l>
+               <l>This might be regulated;</l>
+               <l>Then draw up your Petition</l>
+               <l>To be incorporated;</l>
+               <l>The Parliment of Women, they</l>
+               <l>In their wisdom may find out a way,</l>
+               <l>By some new Female-Law,</l>
+               <l>To keep the Cracks in awe,</l>
+               <l>And make the number low,</l>
+               <l>For now in Troops they go,</l>
+               <l>Therefore, some Laws I know</l>
+               <l>Must be made, or they will ruin quite the Trade.</l>
+            </lg>
+            <lg>
+               <l>There ought to be <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o other,</l>
+               <l>According to Discretion,</l>
+               <l>But those whose tender Mother,</l>
+               <l>Was of the same Profession;</l>
+               <l>But here's <hi>Doll, Bridget, Kate</hi> and <hi>Prue,</hi>
+               </l>
+               <l>A ragged tribe of Deal knows who,</l>
+               <l>Took up the Trade of late,</l>
+               <l>And work at any rate;</l>
+               <l>They do at Corners ply,</l>
+               <l>And as Men passes by,</l>
+               <l>They have them in their eye,</l>
+               <l>Ah! poor <hi>Nell,</hi> this clearly spoils thy living well.</l>
+            </lg>
+            <lg>
+               <l>From <hi>Fleet-street</hi> to the <hi>Tower,</hi>
+               </l>
+               <l>In all the Nanny-housen,</l>
+               <l>There's common Cracks a power,</l>
+               <l>Full five and fifty Thousand,</l>
+               <l>A now to over-run the Land;</l>
+               <l>Therefore let's endeavour out of hand,</l>
+               <l>These <hi>Gillions</hi> to suppr<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ss,</l>
+               <l>And make the number less,</l>
+               <l>For if we don't subdue,</l>
+               <l>This tatter'd ragged crew,</l>
+               <l>'Twill be the worse for you,</l>
+               <l>
+                  <hi>Nell,</hi> I know, 'tis they that keeps the Prizes low.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>J. Bissel,</hi> near the <hi>Hospital-gate</hi> in <hi>West-Smithfield.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
